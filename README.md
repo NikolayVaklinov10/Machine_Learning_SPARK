@@ -16,6 +16,7 @@ The code is written and tested on Jupyter Notebook using Python and pyspark as a
 
 
 
+![ai_image](img/AI.jpg)
 
 
 
