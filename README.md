@@ -1,4 +1,5 @@
-# Machine_Learning_SPARK
+### Machine_Learning_SPARK
+![](img/apache-spark.jpg)
 
 
 The following project covers severeral Machine Learning algorithms. It presents the older spark.mllib as it is still not depricated. However the main focus in on the newer spark.ml, which will be the only one in use in a long run.
